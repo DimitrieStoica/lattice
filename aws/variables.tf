@@ -45,7 +45,7 @@ variable "aws_image" {
         sa-east-1 = "ami-7d77c460"
         us-east-1 = "ami-d8a6c9b0"
         us-west-1 = "ami-71c8d534"
-        us-west-2 = "ami-992d7ea9"
+        us-west-2 = "ami-2bbb8a1b"
     }
 }
 
